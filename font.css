@@ -1,0 +1,15 @@
+@font-face{
+    font-family: 'Circular';
+    src: url('Circular.ttf')  format('truetype'), /* Safari, Android, iOS */;
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* @font-face{
+    font-family: 'Copperplate-Bold';
+    src: url('./Copperplate-Bold-03.ttf'); 
+}
+@font-face{
+    font-family: 'MarkerFelt-Thin';
+    src: url('./MarkerFelt-Thin-01.ttf'); 
+} */
